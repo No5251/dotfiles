@@ -1,0 +1,34 @@
+## generic files
+*~
+*.lock
+*.out
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*.bak
+
+*.sass-cache
+.tmp_*
+.revision
+
+## OS or editor folders
+*.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+*.komodoproject
+.komodotools
+
+## vcs-folders
+.hg
+.svn
+.CVS
